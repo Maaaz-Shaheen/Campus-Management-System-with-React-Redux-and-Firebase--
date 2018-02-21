@@ -1,0 +1,29 @@
+[33mcommit 543aa9655e5058e7e9415d0e388a6b428eb74337[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Maaaz <maaazarshad@live.com>
+Date:   Sat Jan 20 06:21:24 2018 +0500
+
+    Added all firebase authentication
+
+[33mcommit 708a6c5c10af77732677bf5972efd0e54a7896be[m
+Author: Maaaz <maaazarshad@live.com>
+Date:   Sat Jan 20 05:08:10 2018 +0500
+
+    Added lots of changes
+
+[33mcommit 201c53f4e60740b8fd52d88e62946e55212e5125[m
+Author: Maaaz <maaazarshad@live.com>
+Date:   Fri Jan 19 19:35:15 2018 +0500
+
+    fixed endDate bug
+
+[33mcommit 94999e084beb51c3988218523dff42ac9d9e149e[m
+Author: Maaaz <maaazarshad@live.com>
+Date:   Fri Jan 19 18:01:41 2018 +0500
+
+    added readme with git commands
+
+[33mcommit 1aecf1194a5da664a28adea0eeb56077968213fb[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Maaaz <maaazarshad@live.com>
+Date:   Tue Jan 16 03:34:47 2018 +0500
+
+    Expensify for future reference of Redux. Made by following tutorials.
